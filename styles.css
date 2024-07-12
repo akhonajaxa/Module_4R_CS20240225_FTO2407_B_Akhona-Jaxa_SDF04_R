@@ -38,20 +38,20 @@ body {
   background-color: #f0bb7f; ; 
   position: absolute;
   bottom: 33px;
-  left: 150px;
+  left: 202px;
 }
 
 .pastry2 { /* Brownie */
   position: absolute;
   bottom: 33px;
-  left: 800px;
+  right: 504px;
   background-color: #7f553f; 
 }
 
 .pastry3 { /* Cupcake */
   position: absolute;
   bottom: 33px;
-  left: 480px;
+  left: 500px;
   background-color: #f0a8be; 
 }
 
@@ -59,6 +59,6 @@ body {
   background-color: #7fa8f0; 
   position: absolute;
   bottom: 33px;
-  right: 160px;
+  right: 202px;
 }
 
